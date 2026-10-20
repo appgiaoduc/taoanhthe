@@ -1,0 +1,25 @@
+{
+  "name": "Ứng dụng Tạo ảnh thẻ",
+  "short_name": "Ảnh thẻ",
+  "description": "Hệ thống Ứng dụng Tạo ảnh thẻ nhanh chống đầy đủ size ảnh theo đúng khổ giấy",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
